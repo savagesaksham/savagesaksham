@@ -1,7 +1,7 @@
-<<h1 align="center">Hi 👋, I'm Saksham</h1>
+<h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">A passio(not) developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fc-programming&psig=AOvVaw3wYegvasc-MMb_L8WHgv4I&ust=1703354947610000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiu_ZHSo4MDFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/savagesaksham" target="blank"><img src="https://img.shields.io/twitter/follow/savagesaksham?logo=twitter&style=for-the-badge" alt="savagesaksham" /></a> </p>
 
