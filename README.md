@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/sakshamverma14](https://www.behance.net/sakshamverma14)
 
-- 📝 I regularly write articles on [regularly?](regularly?)
+- 📝 I regularly write articles on NOTES on my phone.
 
 - 💬 Ask me about **things where bard and GPT can help**
 
